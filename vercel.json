@@ -1,0 +1,6 @@
+{
+    "redirects": [
+      { "source": "/home", "destination": "https://llmgpuhelper.com/index" },
+      { "source": "/home/:path*", "destination": "https://llmgpuhelper.com/index/:path*" }
+    ]
+}
